@@ -1,4 +1,4 @@
 exports.handler = (event, context, callback) => {
     // TODO implement
-    callback(null, 'Hello');
+    callback(null, 'Hello from lambda');
 };
